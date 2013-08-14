@@ -1,0 +1,14 @@
+Branch: default
+Version: 4.0.11.1
+Changeset: b741cc937a4d
+Compiler: gcc 4.7.2
+Processor: generic x86
+System: Linux
+Bit depth: 64 bits
+Gtkmm: V2.24.2
+Build type: release
+Build flags:  -mtune=generic -fopenmp -O3 -DNDEBUG
+Link flags:   -mtune=generic
+OpenMP support: ON
+MMAP support: ON
+
